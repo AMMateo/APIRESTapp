@@ -1,0 +1,50 @@
+ion-content{
+  display: flex;
+align-items: center;
+}
+ion-card{
+  width: 21rem;
+}
+ion-title{
+  text-align: center;
+  background-color: dodgerblue;
+  color: black;
+  font-size: 4rem;
+  padding: 15px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+ion-icon{
+  color: rgb(0, 119, 255);
+  font-size: 1.5rem;
+  margin-left: 1rem;
+}
+ion-card-header{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(209, 222, 235);
+  
+}
+ion-input{
+  margin-left: 1rem;
+  margin-top: -0.5rem;
+}
+ion-input{
+  width: 15rem;
+}
+ion-col{
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+}
+
+ion-button{
+  background-color: rgb(209, 222, 235);
+}
+
+ion-label{
+  color: rgb(0, 119, 255);
+  font-size: 1.5rem;
+  margin-left: 1rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
